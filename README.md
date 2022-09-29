@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Cookbook, a Ruby on Rails App that lets you Create, Store and Scrape the Web for recipes! 
 - 🌱 I’m currently learning Ruby on Rails & delving into Python! 
-- 👯 I’m currently looking for a job as a Full Stack developer
+- 👯 I’m currently working at Find My Past as a Junior Sofware Engineer
 - 💬 Ask me about Ruby! 
 - 📫 How to reach me: Linkedin: www.linkedin.com/in/albert-goody 
